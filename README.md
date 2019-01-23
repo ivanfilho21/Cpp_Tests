@@ -1,4 +1,4 @@
-# C-_Tests
+# Cpp_Tests
 Tests with plain C++
 
 ## Recursion
